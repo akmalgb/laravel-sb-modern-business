@@ -1,6 +1,6 @@
-# Laravel integrated with startbootstrap modern-business template
+## Laravel integrated with startbootstrap modern-business template
 
-I was integrating Laravel with startbootstrap modern-business template while utilizing blade templating engine
+Integrating Laravel with startbootstrap modern-business template while utilizing blade templating engine
 
 How to Install:
 
