@@ -1,7 +1,3 @@
-## Laravel integrated with startbootstrap modern-business template
-
-Integrating Laravel with startbootstrap modern-business template while utilizing blade templating engine
-
 How to Install:
 
     composer install
